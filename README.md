@@ -28,5 +28,9 @@ costituirebbe una naturale evoluzione del proprio ecosistema finanziario, già f
 
 
 ## Come visualizzare il report
+- se si ha **Power BI Desktop**
 1. Scarica il file `.pbix` da questo repository.
 2. Aprilo con **Power BI Desktop**.
+- se *non* si ha **Power BI Desktop**
+1. Scarica il file `.pdf` da questo repository.
+2. Aprilo con il tuo motore di ricerca.
