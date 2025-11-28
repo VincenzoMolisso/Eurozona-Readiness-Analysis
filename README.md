@@ -1,6 +1,5 @@
 # Eurozona-Readiness-Analysis
-🇺🇸 Analysis of readiness level and internal adoption of the digital euro by European countries in their economic, technological and institutional systems.
-🇮🇹 Analisi del livello di readiness e dell'adozione interna dell'euro digitale da parte dei paesi europei nei loro sistemi economici, tecnologici e istituzionali.
+Analisi del livello di readiness e dell'adozione interna dell'euro digitale da parte dei paesi europei nei loro sistemi economici, tecnologici e istituzionali.
 
 ## Obiettivo dell'analisi
 Questo progetto, nato dallo sviluppo della mia tesi magistrale, contiene un report sviluppato in **Microsoft Power BI** con l’obiettivo di analizzare e mappare il grado di *readiness* dei singoli Stati membri dell’Unione Europea con lo scopo di comprendere quanto i diversi Paesi europei siano effettivamente pronti ad accogliere e integrare l’Euro Digitale all’interno dei propri sistemi economici, tecnologici e istituzionali.
@@ -11,7 +10,7 @@ Per readiness si fa riferimento al livello di preparazione, predisposizione e ca
 
 
 ## Metodologia dell'analisi
-Per rispondere a questi obiettivi ho dato luogo ad un’**analisi comparativa multidimensionale**, costruendo un dataset originale che aggrega dati aggiornati al 2024 provenienti da fonti istituzionali europee con l’obiettivo di mappare il livello di readiness dei singoli Stati membri lungo tre dimensioni principali:
+Per rispondere a questo obiettivo ho dato luogo ad un’**analisi comparativa multidimensionale**, costruendo un dataset originale che aggrega dati aggiornati al 2024 provenienti da fonti istituzionali europee con l’obiettivo di mappare il livello di readiness dei singoli Stati membri lungo tre dimensioni principali:
 - readiness digitale e finanziaria;
 - readiness normativa e infrastrutturale;
 - readiness socio-istituzionale.
