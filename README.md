@@ -44,5 +44,4 @@ se si ha **Power BI Desktop**
 2. Aprilo con **Power BI Desktop**.
 
 se *non* si ha **Power BI Desktop**
-1. Scarica il file `.pdf` da questo repository.
-2. Aprilo con il tuo motore di ricerca.
+1. Scarica o visualizza il file `.pdf` da questo repository.
